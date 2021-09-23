@@ -7,6 +7,9 @@ The coupon manager App is a list of preorder coupon management.
 2) you can manually add coupon code to your list.
 
 that is how you can track all your available coupon codes.
+## Demo
+you can see a demo of the app here: 
+[App Demo](https://coupons-manager.web.app/)
 
 ## Available Scripts
 
